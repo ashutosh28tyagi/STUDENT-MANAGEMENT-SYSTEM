@@ -20,3 +20,5 @@
 9. Convert the python file to .exe file
  
 10.Command python -F filename.py
+## SCREENSHOT
+![image](https://github.com/ashutosh28tyagi/STUDENT-MANAGEMENT-SYSTEM/blob/master/stu_man.png)
